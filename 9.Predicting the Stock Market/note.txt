@@ -1,0 +1,6 @@
+I did this project using VS code with neuron extension as an attempt to do a project without using Jupyter Notebook.
+
+******Reflection******
+VS code is not as good as Jupyter Notebook in terms of immediately read output as well as checking the previous outputs, despite the fact of many extensions such as Jupyter, neuron are available. 
+
+In addition, the auto-complete of Python syntax is not very good using VS code compared to Jupyter Notebook.
